@@ -1,0 +1,1 @@
+{"type": "user", "username": "vnccs_13", "pwd_hash": "b2fe041444ea1f063743d554a1d00de59ee5822724c6f7d7954b1326813d8b98", "salt": "3c8294c1afb64d5e92a7f864fd795586", "wallet": {"Libra": 25.0, "Ducado": 1.0, "Florim": 2.0, "Denário": 0.0, "Coroa": 0.0}}
